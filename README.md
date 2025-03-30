@@ -69,11 +69,12 @@ Die Datenbank wurde erfolgreich in IntelliJ angezeigt.
 
 ### 1. Java Connector herunterladen und einbinden
 Ich habe den Java-Connector heruntergeladen und als JAR-Datei hinzugefügt.
-![Downloading Java Connector](images/Downloading_connector.java)
+![Downloading Java Connector](images/Downloading_connector.png)
 ![Adding JAR](images/adding_jar.png)
 
 ### 2. Konfiguration der Laufzeitumgebung
 Damit IntelliJ den JDBC-Treiber findet, habe ich `Use classpath of module` in den Run/Debug-Konfigurationen hinzugefügt.
+![Run/Debug Configurations --> Options](images/use_classpath.png)
 
 ## Codeausgabe
 
